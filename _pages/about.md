@@ -23,17 +23,14 @@ I received the the M.S. degree from xxx university, South Korea, in 2012. I also
 
 **My main research topics** are as follows: 
 {: style="text-align: justify"}
-- Artificial General Intelligence
-- Neural-symbolic Learning
-- Explainable and Interpretable Machine Learning
-- Self-supervised Learning
-- Online Machine Learning
-- Optimization
+- Machine Learning
+- Arabic Dialect Identification
+- Audio Signal Processing
 
 
 
-[Selected Publication List](https://sijang.github.io/publications/),
-[Google Scholar](https://scholar.google.co.kr/citations?user=I7zRmqkAAAAJ&hl=en){:target="\_blank"}
+[Selected Publication List](https://zrkhakim.github.io/publications/),
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=0j7Vx8MAAAAJ){:target="\_blank"}
 
 
 ### **Acknowledgements**
