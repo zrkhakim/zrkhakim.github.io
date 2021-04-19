@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={false}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I'm currently a Ph.D. student in the Electrical and Electronic Engineering, Yonsei University.
+I'm currently a Ph.D. student in the department of Electrical and Electronic Engineering, Yonsei University.
 I received the the M.S. degree from xxx university, South Korea, in 2012. I also received the B.S. degree from xxx university, South Korea, in 2010.
 {: style="text-align: justify"}
 
