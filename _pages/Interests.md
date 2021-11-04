@@ -6,9 +6,7 @@ description: .
 nav: true
 ---
 
-## Artificial General Intelligence
-  > [Prof. Choong-Shik Park](https://www.researchgate.net/profile/Choong-Shik-Park){:target="_blank"}, Constructive Artificial Intelligence, U1 (Youngdong) University.
-  
+## Artificial General Intelligence  
   > [Dr. Ben Goertzel](http://goertzel.org){:target="_blank"}, SingularityNET and OpenCog.
 
 
