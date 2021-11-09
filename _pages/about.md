@@ -16,6 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={false}"
 social: false  # includes social icons at the bottom of the page
 ---
 
+
 I am a Ph.D. student in the department of Electrical and Electronic Engineering at Yonsei university, South Korea.
 My work focuses on language and dialect identification in the spoken speech signal, specifically for Arabic language/dialects. Mainly, I am interested in utilizing and developing machine and deep learning methods to tackle big questions and solve problems.
 
