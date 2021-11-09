@@ -41,7 +41,7 @@ I received the M.S. degree in Electrical and Computer Engineering from Sultan Qa
 I sincerely appreciate their enormous helps and supports during my journey. I could not stand here without them.
 {: style="text-align: justify"}
 
-- [Prof. Hong-Goo Kang](https://dsp.yonsei.ac.kr){:target="_blank"}, Yonsei University.
+- [Prof. Hong-Goo Kang]{:target="_blank"}, Yonsei University.
 
 
 
