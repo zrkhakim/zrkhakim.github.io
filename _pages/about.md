@@ -42,7 +42,7 @@ I received the M.S. degree in Electrical and Computer Engineering from Sultan Qa
 
 
 
-[//]: Write your biography here. Tell the world about yourself. Link to your favorite ![me](https://user-images.githubusercontent.com/11868476/141230039-845e49c7-81d7-4216-85e1-30c4c4835f9f.jpg). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+[//]: Write your biography here. Tell the world about yourself. Link to your favorite . You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 [//]:Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
