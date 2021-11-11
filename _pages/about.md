@@ -37,11 +37,7 @@ I received the M.S. degree in Electrical and Computer Engineering from Sultan Qa
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=0j7Vx8MAAAAJ){:target="\_blank"}
 
 
-### **Acknowledgements**
-I sincerely appreciate their enormous helps and supports during my journey. I could not stand here without them.
-{: style="text-align: justify"}
 
-- Prof. Hong-Goo Kang, Yonsei University.
 
 
 
