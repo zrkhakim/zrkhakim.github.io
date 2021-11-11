@@ -6,7 +6,7 @@ description:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: ![me](https://user-images.githubusercontent.com/11868476/141230039-845e49c7-81d7-4216-85e1-30c4c4835f9f.jpg)
   address: >
     <p>zrkhakim _AT_ yonsei.ac.kr</p>
     
