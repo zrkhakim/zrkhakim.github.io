@@ -18,7 +18,7 @@ social: false  # includes social icons at the bottom of the page
 
 
 I am a Ph.D. student in the department of Electrical and Electronic Engineering at Yonsei university, South Korea.
-My work focuses on language and dialect identification in the spoken speech signal, specifically for Arabic language/dialects. Mainly, I am interested in utilizing and developing machine and deep learning methods to tackle big questions and solve problems.
+My work focuses on language and dialect identification in the spoken speech signal, specifically for Arabic language/dialects using machine and deep learning methods.
 
 I received the M.S. degree in Electrical and Computer Engineering from Sultan Qaboos University, Oman. I had my B.Sc. degree from the University of Bahrain, Bahrain.
 
@@ -27,9 +27,10 @@ I received the M.S. degree in Electrical and Computer Engineering from Sultan Qa
 
 **My main research topics** are as follows: 
 {: style="text-align: justify"}
-- Machine Learning
-- Arabic Dialect Identification
-- Audio Signal Processing
+- Language/Dialect Identification
+- Speech Signal Processing
+- Deep Representation Learning
+- Deep Metric Learning
 
 
 
