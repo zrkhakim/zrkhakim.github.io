@@ -33,7 +33,7 @@ I received the M.S. degree in Electrical and Computer Engineering from Sultan Qa
 - Deep Metric Learning
 
 
-[linkedin-brands.svg] (https://www.linkedin.com/in/zaynab-al-hakim-40a18914/)
+[![Follow me](linkedin-brands.svg)](https://www.linkedin.com/in/zaynab-al-hakim-40a18914/)
 [Selected Publication List](https://zrkhakim.github.io/publications/),
 [Google Scholar](https://scholar.google.co.kr/citations?user=-kUJUrIAAAAJ&hl=en){:target="\_blank"}
 
