@@ -3,7 +3,7 @@ layout: page
 permalink: /interests/
 title: Interests
 description: .
-nav: true
+nav: false
 ---
 
 ## Artificial General Intelligence  
