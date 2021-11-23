@@ -8,7 +8,7 @@ nav: true
 
 ## Works in Progress
 
-- **Zainab Alhakeem**, and Hong-Goo Kang, Supervised Local/Global Clustering with Triplet Loss for Arabic Dialect Identification.
+- **Zainab Alhakeem**, and Hong-Goo Kang, Supervised Local Global Clustering with Triplet Loss for Arabic Dialect Identification.
 
 
 ## Conferences
