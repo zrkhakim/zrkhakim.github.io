@@ -6,7 +6,7 @@ description:
 
 profile:
   align: right
-  image: me.jpg
+  image: meUSA3-2.jpg
   address: >
     <p>zrkhakim _AT_ yonsei.ac.kr</p>
     
