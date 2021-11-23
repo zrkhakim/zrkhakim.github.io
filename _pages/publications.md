@@ -2,26 +2,21 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Selected Publications.
+description: 
 nav: true
 ---
 
-## Under Review
-
-
-- **Zainab Alhakeem** and Se-In Jang, [An LBP-HOG Descriptor Based on Matrix Projection For Mammogram Classification](https://arxiv.org/abs/1904.00187){:target="_blank"}, arXiv Preprint, submitted to ICIP 2021.
-{: style="text-align: justify"}
-
-
 ## Works in Progress
 
-- TBD
+- **Zainab Alhakeem**, and Hong-Goo Kang, [Supervised Local/Global Clustering with Triplet Loss for Arabic Dialect Identification].
 
 
 ## Conferences
 
 - **Zainab Alhakeem**, Yoohwan Kwon, Hong-Goo Kang, [Disentangled Representations for Arabic Dialect Identification based on Supervised Clustering with Triplet Loss]{:target="_blank"}, European Signal Processing Conference (EUSIPCO), 2021.
 - **Zainab Alhakeem**, and Hong-Goo Kang, [Confidence Learning from Noisy Labels for Arabic Dialect Identification]{:target="_blank"}, International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC), 2021.
+- **Zainab Alhakeem** and Se-In Jang, [An LBP-HOG Descriptor Based on Matrix Projection For Mammogram Classification](https://arxiv.org/abs/1904.00187){:target="_blank"}, arXiv Preprint, submitted to ICIP 2021.
+{: style="text-align: justify"}
 
 ## Journals
 
