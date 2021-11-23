@@ -37,8 +37,8 @@ I received the M.S. degree in Electrical and Computer Engineering from Sultan Qa
 [//]:&nbsp;
 [![Linkedin](https://img.icons8.com/ios-filled/50/000000/linkedin.png)](https://www.linkedin.com/in/zaynab-al-hakim-40a18914/)
 [![GoogleScholar](https://img.icons8.com/ios-filled/50/000000/google-scholar--v2.png")](https://scholar.google.co.kr/citations?user=-kUJUrIAAAAJ&hl=en)
-[//]:[Selected Publication List](https://zrkhakim.github.io/publications/),
-[//]:[Google Scholar](https://scholar.google.co.kr/citations?user=-kUJUrIAAAAJ&hl=en){:target="\_blank"}
+<!-- [//]:[Selected Publication List](https://zrkhakim.github.io/publications/), -->
+<!-- [//]:[Google Scholar](https://scholar.google.co.kr/citations?user=-kUJUrIAAAAJ&hl=en){:target="\_blank"} -->
 
 
 
